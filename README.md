@@ -6,7 +6,7 @@ Kullanıcıdan alınan 3 sayıyı büyüklük değerlerine göre if - else koşu
 geri kalan sayıyı ilk iki sayı ile karşılaştırılmaktadır. 
 
 # Kullanım
-Algoritmanın çalışabilmesi için sadece .exe uzantılı dosyayı çalıştırmanız yeterli olacaktır.
+Algoritmanın çalışabilmesi için C programlama dilinin çalışabileceği program(ların) yüklü olması gereklidir.
 
 # İletişim
 Benimle iletişme geçmek isterseniz www.barankanat.com.tr adresini ziyaret edebilirsiniz.                        
