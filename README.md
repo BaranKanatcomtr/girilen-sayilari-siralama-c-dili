@@ -8,6 +8,9 @@ geri kalan sayıyı ilk iki sayı ile karşılaştırılmaktadır.
 # Kullanım
 Algoritmanın çalışabilmesi için C programlama dilinin çalışabileceği program(ların) yüklü olması gereklidir.
 
+# Varyasyon
+Aynı algoritmayı Flow Chart uygulaması ile yaptım. İncelemek istersen bağlantıya tıklayabilirsin. https://github.com/BaranKanatcomtr/girilen-sayilari-siralama-flowchart
+
 # İletişim
 Benimle iletişme geçmek isterseniz www.barankanat.com.tr adresini ziyaret edebilirsiniz.                        
 Twitter: https://twitter.com/Baran_Knt                          
